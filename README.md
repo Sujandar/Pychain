@@ -8,4 +8,6 @@ Create a new data class named Record. This class will serve as the blueprint for
 Modify the existing Block data class to store Record data.
 Add Relevant User Inputs to the Streamlit interface.
 Test the PyChain Ledger by Storing Records.
-![Alt Text](path/to/your/image.png)
+![Alt Text](Screenshot 2023-06-29 at 9.52.42 PM.png)
+![Alt Text](Screenshot 2023-06-29 at 9.52.42 PM.png)
+![Alt Text](Screenshot 2023-06-29 at 9.52.42 PM.png)
